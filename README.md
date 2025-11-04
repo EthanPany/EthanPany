@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-for freelance work? do reach, [email](mailto:your-email@example.com) :)
+for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 
 ### 📊 this week i spent my time on:
 
@@ -14,7 +14,7 @@ No activity tracked
 
 if you like what i do, maybe consider buying me a coffee/tea ☕👉👈
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourhandle)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/epan)
 
 ### 📈 my github stats
 
