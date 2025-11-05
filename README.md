@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./code.gif" alt="Coding GIF" width="100%" />
+
 # 👋 Hey there, I'm Ethan Pan!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Cool+Stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
