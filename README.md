@@ -12,7 +12,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea ☕👉👈
+if you like what i do, maybe consider buying me a ☕️/🎾/⛵️/🎬🎫/🏃👟/🌌🔭/🚵‍♂️🚴/⛷️🏂/🎮💿/🏎️🎫/✈️🎫/🚇🎫/🚀👀/🎭🎫/ 👉👈
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/epan)
 
@@ -21,11 +21,6 @@ if you like what i do, maybe consider buying me a coffee/tea ☕👉👈
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EthanPany&show_icons=true&theme=default&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanPany&theme=default" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanPany&layout=compact&theme=default&langs_count=10&hide=html,css" alt="Top Languages" />
 </p>
