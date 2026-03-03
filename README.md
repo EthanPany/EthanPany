@@ -7,11 +7,11 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         1 hr 17 mins          ████████████████████████▒   97.04 %
-YAML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JSON         2 hrs 3 mins          ███████████████████████▓░   94.46 %
+Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Markdown     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+YAML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Bash         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
