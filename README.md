@@ -7,8 +7,8 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-C#           2 hrs 10 mins         █████████████████░░░░░░░░   67.84 %
-Bash         36 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
+C#           2 hrs 10 mins         █████████████████░░░░░░░░   67.80 %
+Bash         36 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
 Markdown     23 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
 Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
