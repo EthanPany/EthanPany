@@ -7,7 +7,11 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#           1 hr 3 mins           ██████████████████▒░░░░░░   73.92 %
+Text         14 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
+Git Config   6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+CSV          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
