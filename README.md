@@ -7,11 +7,10 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-C#           1 hr 3 mins           █████████████░░░░░░░░░░░░   51.93 %
-TeX          15 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
-Text         14 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
-Other        13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-Markdown     6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+TeX        15 mins               ███████████░░░░░░░░░░░░░░   43.42 %
+Other      13 mins               █████████▒░░░░░░░░░░░░░░░   37.14 %
+Markdown   5 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+Python     1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
