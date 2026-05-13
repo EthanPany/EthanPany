@@ -7,11 +7,11 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 2 mins           █████████████▒░░░░░░░░░░░   53.55 %
-C#           24 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
-Bash         14 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-JavaScript   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Other        3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+JavaScript   1 hr 25 mins          ████████▓░░░░░░░░░░░░░░░░   34.67 %
+Python       43 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
+TypeScript   33 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+Vue          22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Swift        13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
 ```
 
 <!--END_SECTION:waka-->
