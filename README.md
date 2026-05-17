@@ -7,11 +7,7 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   59 mins               ██████████████▓░░░░░░░░░░   58.37 %
-Python       13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Other        7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-C#           6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-TOML         5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
