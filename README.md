@@ -7,11 +7,11 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    6 hrs 21 mins         ███████▓░░░░░░░░░░░░░░░░░   31.13 %
-Markdown      3 hrs 46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
-Python        3 hrs 31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
-C++           2 hrs 31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Objective-C   1 hr 10 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+TypeScript    5 hrs 27 mins         ████████▒░░░░░░░░░░░░░░░░   33.61 %
+Python        2 hrs 39 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+C++           2 hrs 23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+Markdown      2 hrs 18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Objective-C   1 hr 10 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
 ```
 
 <!--END_SECTION:waka-->
