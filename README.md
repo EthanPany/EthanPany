@@ -7,11 +7,7 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C   47 mins               █████░░░░░░░░░░░░░░░░░░░░   20.28 %
-TypeScript    47 mins               █████░░░░░░░░░░░░░░░░░░░░   20.09 %
-Markdown      43 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-MATLAB        30 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-C++           24 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
