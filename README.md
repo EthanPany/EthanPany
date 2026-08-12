@@ -7,11 +7,11 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     4 hrs 19 mins         █████████▓░░░░░░░░░░░░░░░   39.18 %
-TeX          2 hrs 14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-JavaScript   1 hr 27 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Python       1 hr 22 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-Other        36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Markdown     3 hrs                 ████████▒░░░░░░░░░░░░░░░░   33.84 %
+TeX          2 hrs 14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
+JavaScript   1 hr 24 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+Python       1 hr 18 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+Other        32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
 ```
 
 <!--END_SECTION:waka-->
