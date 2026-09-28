@@ -7,11 +7,11 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Other         8 hrs 40 mins         ████████████░░░░░░░░░░░░░   47.99 %
-Markdown      2 hrs 56 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-Bash          1 hr 43 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-Java          1 hr 22 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Objective-C   49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Other         8 hrs 34 mins         ████████████░░░░░░░░░░░░░   48.50 %
+Markdown      2 hrs 56 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+Bash          1 hr 43 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Java          1 hr 22 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Objective-C   49 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->
