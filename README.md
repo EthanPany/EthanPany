@@ -7,9 +7,7 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Java         1 hr 7 mins           ██████████████▒░░░░░░░░░░   56.67 %
-Other        50 mins               ██████████▓░░░░░░░░░░░░░░   42.34 %
-Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
