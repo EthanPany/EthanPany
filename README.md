@@ -7,9 +7,9 @@ for freelance work? do reach, [email](mailto:pyy122759996@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Other      58 mins               █████████▒░░░░░░░░░░░░░░░   37.99 %
-Markdown   48 mins               ████████░░░░░░░░░░░░░░░░░   31.38 %
-Java       47 mins               ███████▓░░░░░░░░░░░░░░░░░   30.63 %
+Other      1 hr 16 mins          ███████████▒░░░░░░░░░░░░░   45.82 %
+Java       50 mins               ███████▓░░░░░░░░░░░░░░░░░   30.33 %
+Markdown   39 mins               ██████░░░░░░░░░░░░░░░░░░░   23.84 %
 ```
 
 <!--END_SECTION:waka-->
